@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nm\ m
+comment1.target=Player(java.lang.String,\ int)
+comment2.params=bet
+comment2.target=void\ bet(int)
+comment3.params=c
+comment3.target=void\ hit(Card)
+comment4.params=
+comment4.target=boolean\ stay()
+comment5.params=
+comment5.target=void\ updateWinnings()
+comment6.params=hand
+comment6.target=int\ handTotal(java.util.ArrayList)
+comment7.params=bust
+comment7.target=java.lang.String\ busted(boolean)
+comment8.params=hand
+comment8.target=java.lang.String\ toString(int[])
+numComments=9
